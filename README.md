@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Decode a Morse code message
 
 > One paragraph statement about the project.
 
@@ -10,50 +10,44 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
 
-## Live Demo
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+```
+Ruby
+```
 
 ### Setup
+```
+git clone git@github.com:Tchilo/morse-code.git
+cd morse-code.git
+```
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+### Run Program
+```
+ruby decode_morse_code.rb
+```
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Taro Chilongoshi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Tchilo)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/TaroChilongoshi)
 
-👤 **Author2**
+👤 **Azy64**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/azy64)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/azaria-saidi-524780112/)
 
 ## 🤝 Contributing
 
