@@ -35,5 +35,5 @@ puts decode('-- -.--')
 
 puts decode('-- -.-- -. .- -- .')
 
-# bottole message 
+# bottole message
 puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
